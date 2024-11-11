@@ -1,3 +1,5 @@
+# This fork comments out the buffer underflow warning originating from coreaudio.c file
+
 # node-speaker
 
 ## Output [PCM audio][pcm] data to the speakers
